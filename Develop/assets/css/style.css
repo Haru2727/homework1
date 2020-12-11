@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 /* Main Photo (Show teamwork and problemsolving) */
+/* had trouble with image think I moved the file to a different location from original */
 #hero {
     height: 800px;
     width: 100%;
@@ -103,6 +104,8 @@ p {
     max-width: 150px;
 }
 /* Content of Summary */
+/* Tried condensing down each class into one broad class since it all has 
+the same styling but everytime I tried it, it would not work */
 .search-engine-optimization,
  .online-reputation-management, 
   .social-media-marketing {
